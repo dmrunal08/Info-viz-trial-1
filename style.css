@@ -42,27 +42,27 @@ body{
     /* background-image: url('bgg.png');
     background-attachment: fixed; */
     background-size: 100% 100%;
-    padding: 70px;
-    margin-top: 50px;
+    padding: 0px;
+    margin-top: 0px;
     color: #5d7581;
-    height: 70%;
+    height: 100%;
   }
 
   .main a{
     text-decoration: none;
-    padding: 35px 35px;
+    padding: 0px;
     text-align: center;
     background-color: #ffffff52;
-    border-radius: 20px;
+    border-radius: 0px;
     color: white;
   }
 
   .main a:hover{
     text-decoration: none;
-    padding: 35px 35px;
+    padding: 0px;
     text-align: center;
     background-color: #0084ff;
-    border-radius: 20px;
+    border-radius: 0px;
     color: white;
     transition: 0.5s;
   }
