@@ -3,14 +3,14 @@ html{
 }
 body{
     background-color: #ececec;
-    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
 
 
 .navbar {
     overflow: hidden;
-    background-color: #ececec;
+    background-color: #912D62;
     justify-content: center;
     position: fixed;
     top: 0;
@@ -21,7 +21,7 @@ body{
   .navbar a {
     float: right;
     display: inline-block;
-    color: #5d7581;
+    color: #FFFFFF;
     text-align: center;
     padding: 35px 35px;
     text-decoration: none;
@@ -29,13 +29,13 @@ body{
   }
   
   .navbar a:hover {
-    background: #dde1e4;
-    color: #365464;
+    background: #521937;
+    color: #FFB4DC;
     transition: 0.8s;
   }
 
  .active {
-    background: #d8e8f4;
+    background: #521937;
   }
 
   .main{
