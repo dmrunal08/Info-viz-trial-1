@@ -4,7 +4,7 @@ html{
 body{
     background-color: #white;
     font-family: 'Poppins', sans-serif;
-    top margin: 0px;
+    margin: 0px;
   width: 100%
 }
 
@@ -23,7 +23,7 @@ body{
     display: inline-block;
     color: #FFFFFF;
     text-align: center;
-    padding:0;
+    padding: 35px 35px;
     text-decoration: none;
     font-size: 14px;
   }
@@ -52,7 +52,7 @@ body{
     text-decoration: none;
     padding: 0px;
     text-align: center;
-    background-color: #white;
+    background-color: #ffffff52;
     border-radius: 0px;
     color: white;
   }
@@ -61,7 +61,7 @@ body{
     text-decoration: none;
     padding: 0px;
     text-align: center;
-    background-color: #white;
+    background-color: #0084ff;
     border-radius: 0px;
     color: white;
     transition: 0.5s;
