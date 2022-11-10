@@ -4,7 +4,7 @@ html{
 body{
     background-color: #white;
     font-family: 'Poppins', sans-serif;
-    top margin: 10px;
+    top margin: 0px;
   width: 100%
 }
 
@@ -23,7 +23,7 @@ body{
     display: inline-block;
     color: #FFFFFF;
     text-align: center;
-    padding: 35px 35px;
+    padding:0;
     text-decoration: none;
     font-size: 14px;
   }
